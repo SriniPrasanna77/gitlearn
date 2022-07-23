@@ -25,4 +25,4 @@ Git merge firstbranch
 
 Rebase branches
 
-Git 
+Git rebase <branchname> // current branch will be updated with the changes from rebase branch
