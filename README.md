@@ -26,3 +26,15 @@ Git merge firstbranch
 Rebase branches
 
 Git rebase <branchname> // current branch will be updated with the changes from rebase branch
+
+Git push
+
+We can use ssh to push changes
+
+1. Generate ssh public key
+Ssh-keygen
+Get the ssh key (pub key)
+In GitHub profile settings, add the ssh under ssh and gpg keys
+
+
+Git push origin <branchname>
