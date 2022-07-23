@@ -36,5 +36,6 @@ Ssh-keygen
 Get the ssh key (pub key)
 In GitHub profile settings, add the ssh under ssh and gpg keys
 
+2. ssh -T git@github.com //authenticate github connection via the ssh key created
 
 Git push origin <branchname>
