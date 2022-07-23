@@ -39,7 +39,8 @@ In GitHub profile settings, add the ssh under ssh and gpg keys
 2. ssh -T git@github.com //authenticate github connection via the ssh key created
 
 3. make sure to switch over to ssh url to point to the github repository. https does not work for pushes
-git remote set-url origin git@github.com:SriniPrasanna77/gitlearn.git
+git remote set-url origin git@github.com:SriniPrasanna77/gitlearn.git.
+  
 https://stackoverflow.com/questions/14762034/push-to-github-without-a-password-using-ssh-key
 
 Git push origin <branchname>
