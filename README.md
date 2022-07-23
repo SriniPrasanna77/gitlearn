@@ -22,3 +22,7 @@ To merge branches, make sure to be in the target branch
 Here, we are in main branch as we want the firstbranch to be merged into main branch
 
 Git merge firstbranch
+
+Rebase branches
+
+Git 
